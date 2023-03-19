@@ -131,3 +131,7 @@ function actualizarNumerito() {
   );
   numerito.innerText = nuevoNumerito;
 }
+
+
+
+/*  */
