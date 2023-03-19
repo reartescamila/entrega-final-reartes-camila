@@ -1,182 +1,182 @@
 [
   {
-    "id": "abrigo-01",
-    "titulo": "Abrigo 01",
-    "imagen": "./img/abrigos/01.jpg",
+    "id": "Top-01",
+    "titulo": "Top classic",
+    "imagen": "./img/tops/01.jpg",
     "categoria": {
-      "nombre": "Abrigos",
-      "id": "abrigos"
+      "nombre": "top",
+      "id": "top"
+    },
+    "precio": 8990
+  },
+  {
+    "id": "Top-02",
+    "titulo": "Top Kim Black",
+    "imagen": "./img/tops/02.jpg",
+    "categoria": {
+      "nombre": "top",
+      "id": "top"
+    },
+    "precio": 8090
+  },
+  {
+    "id": "Top-03",
+    "titulo": "Top Amalfi",
+    "imagen": "./img/tops/03.jpg",
+    "categoria": {
+      "nombre": "top",
+      "id": "top"
+    },
+    "precio": 7890
+  },
+  {
+    "id": "Top-04",
+    "titulo": "Top Lia",
+    "imagen": "./img/tops/04.jpg",
+    "categoria": {
+      "nombre": "top",
+      "id": "top"
+    },
+    "precio": 6500
+  },
+  {
+    "id": "Top-05",
+    "titulo": "Top Ara",
+    "imagen": "./img/tops/05.jpg",
+    "categoria": {
+      "nombre": "top",
+      "id": "top"
+    },
+    "precio": 7590
+  },
+  {
+    "id": "calza-01",
+    "titulo": "Calza Classic",
+    "imagen": "./img/calzas/01.jpg",
+    "categoria": {
+      "nombre": "calza",
+      "id": "calza"
+    },
+    "precio": 7650
+  },
+  {
+    "id": "calza-02",
+    "titulo": "Calza Zeus",
+    "imagen": "./img/calzas/02.jpg",
+    "categoria": {
+      "nombre": "calza",
+      "id": "calza"
+    },
+    "precio": 6980
+  },
+  {
+    "id": "calza-03",
+    "titulo": "Calza Futura",
+    "imagen": "./img/calzas/03.jpg",
+    "categoria": {
+      "nombre": "calza",
+      "id": "calza"
+    },
+    "precio": 6500
+  },
+  {
+    "id": "calza-04",
+    "titulo": "Calza Armonia",
+    "imagen": "./img/calzas/04.jpg",
+    "categoria": {
+      "nombre": "calza",
+      "id": "calza"
+    },
+    "precio": 7640
+  },
+  {
+    "id": "calza-05",
+    "titulo": "Calza Gala",
+    "imagen": "./img/calzas/05.jpg",
+    "categoria": {
+      "nombre": "calza",
+      "id": "calza"
     },
     "precio": 1000
   },
   {
-    "id": "abrigo-02",
-    "titulo": "Abrigo 02",
-    "imagen": "./img/abrigos/02.jpg",
+    "id": "calza-06",
+    "titulo": "Calza Bora",
+    "imagen": "./img/calzas/06.jpg",
     "categoria": {
-      "nombre": "Abrigos",
-      "id": "abrigos"
+      "nombre": "Calza",
+      "id": "calza"
     },
     "precio": 1000
   },
   {
-    "id": "abrigo-03",
-    "titulo": "Abrigo 03",
-    "imagen": "./img/abrigos/03.jpg",
+    "id": "calza-07",
+    "titulo": "Calza Zebra",
+    "imagen": "./img/calzas/07.jpg",
     "categoria": {
-      "nombre": "Abrigos",
-      "id": "abrigos"
+      "nombre": "calza",
+      "id": "calza"
+    },
+    "precio": 5430
+  },
+  {
+    "id": "calza-08",
+    "titulo": "Calza Gala",
+    "imagen": "./img/calzas/08.jpg",
+    "categoria": {
+      "nombre": "calza",
+      "id": "calza"
+    },
+    "precio": 5630
+  },
+  {
+    "id": "remera-01",
+    "titulo": "Remera Sira",
+    "imagen": "./img/remeras/01.jpg",
+    "categoria": {
+      "nombre": "remera",
+      "id": "remera"
     },
     "precio": 1000
   },
   {
-    "id": "abrigo-04",
-    "titulo": "Abrigo 04",
-    "imagen": "./img/abrigos/04.jpg",
+    "id": "remera-02",
+    "titulo": "Remera Olimpo",
+    "imagen": "./img/remeras/02.jpg",
     "categoria": {
-      "nombre": "Abrigos",
-      "id": "abrigos"
+      "nombre": "remera",
+      "id": "remera"
     },
-    "precio": 1000
+    "precio": 3500
   },
   {
-    "id": "abrigo-05",
-    "titulo": "Abrigo 05",
-    "imagen": "./img/abrigos/05.jpg",
+    "id": "remera-03",
+    "titulo": "Remera Petra",
+    "imagen": "./img/remeras/03.jpg",
     "categoria": {
-      "nombre": "Abrigos",
-      "id": "abrigos"
+      "nombre": "remera",
+      "id": "remera"
     },
-    "precio": 1000
+    "precio": 2000
   },
   {
-    "id": "camiseta-01",
-    "titulo": "Camiseta 01",
-    "imagen": "./img/camisetas/01.jpg",
+    "id": "remera-04",
+    "titulo": "Remera Ara",
+    "imagen": "./img/remeras/04.jpg",
     "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
+      "nombre": "remera",
+      "id": "remera"
     },
-    "precio": 1000
+    "precio": 3470
   },
   {
-    "id": "camiseta-02",
-    "titulo": "Camiseta 02",
-    "imagen": "./img/camisetas/02.jpg",
+    "id": "remera-05",
+    "titulo": "Remera Bora",
+    "imagen": "./img/remeras/05.jpg",
     "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
+      "nombre": "remera",
+      "id": "remera"
     },
-    "precio": 1000
-  },
-  {
-    "id": "camiseta-03",
-    "titulo": "Camiseta 03",
-    "imagen": "./img/camisetas/03.jpg",
-    "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
-    },
-    "precio": 1000
-  },
-  {
-    "id": "camiseta-04",
-    "titulo": "Camiseta 04",
-    "imagen": "./img/camisetas/04.jpg",
-    "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
-    },
-    "precio": 1000
-  },
-  {
-    "id": "camiseta-05",
-    "titulo": "Camiseta 05",
-    "imagen": "./img/camisetas/05.jpg",
-    "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
-    },
-    "precio": 1000
-  },
-  {
-    "id": "camiseta-06",
-    "titulo": "Camiseta 06",
-    "imagen": "./img/camisetas/06.jpg",
-    "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
-    },
-    "precio": 1000
-  },
-  {
-    "id": "camiseta-07",
-    "titulo": "Camiseta 07",
-    "imagen": "./img/camisetas/07.jpg",
-    "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
-    },
-    "precio": 1000
-  },
-  {
-    "id": "camiseta-08",
-    "titulo": "Camiseta 08",
-    "imagen": "./img/camisetas/08.jpg",
-    "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
-    },
-    "precio": 1000
-  },
-  {
-    "id": "pantalon-01",
-    "titulo": "Pantalón 01",
-    "imagen": "./img/pantalones/01.jpg",
-    "categoria": {
-      "nombre": "Pantalones",
-      "id": "pantalones"
-    },
-    "precio": 1000
-  },
-  {
-    "id": "pantalon-02",
-    "titulo": "Pantalón 02",
-    "imagen": "./img/pantalones/02.jpg",
-    "categoria": {
-      "nombre": "Pantalones",
-      "id": "pantalones"
-    },
-    "precio": 1000
-  },
-  {
-    "id": "pantalon-03",
-    "titulo": "Pantalón 03",
-    "imagen": "./img/pantalones/03.jpg",
-    "categoria": {
-      "nombre": "Pantalones",
-      "id": "pantalones"
-    },
-    "precio": 1000
-  },
-  {
-    "id": "pantalon-04",
-    "titulo": "Pantalón 04",
-    "imagen": "./img/pantalones/04.jpg",
-    "categoria": {
-      "nombre": "Pantalones",
-      "id": "pantalones"
-    },
-    "precio": 1000
-  },
-  {
-    "id": "pantalon-05",
-    "titulo": "Pantalón 05",
-    "imagen": "./img/pantalones/05.jpg",
-    "categoria": {
-      "nombre": "Pantalones",
-      "id": "pantalones"
-    },
-    "precio": 1000
+    "precio": 6780
   }
 ]
