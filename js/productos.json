@@ -4,7 +4,7 @@
     "titulo": "Top classic",
     "imagen": "./img/tops/01.jpg",
     "categoria": {
-      "nombre": "top",
+      "nombre": "Top",
       "id": "top"
     },
     "precio": 8990
@@ -14,7 +14,7 @@
     "titulo": "Top Kim Black",
     "imagen": "./img/tops/02.jpg",
     "categoria": {
-      "nombre": "top",
+      "nombre": "Top",
       "id": "top"
     },
     "precio": 8090
@@ -24,7 +24,7 @@
     "titulo": "Top Amalfi",
     "imagen": "./img/tops/03.jpg",
     "categoria": {
-      "nombre": "top",
+      "nombre": "Top",
       "id": "top"
     },
     "precio": 7890
@@ -34,7 +34,7 @@
     "titulo": "Top Lia",
     "imagen": "./img/tops/04.jpg",
     "categoria": {
-      "nombre": "top",
+      "nombre": "Top",
       "id": "top"
     },
     "precio": 6500
@@ -44,7 +44,7 @@
     "titulo": "Top Ara",
     "imagen": "./img/tops/05.jpg",
     "categoria": {
-      "nombre": "top",
+      "nombre": "Top",
       "id": "top"
     },
     "precio": 7590
@@ -54,7 +54,7 @@
     "titulo": "Calza Classic",
     "imagen": "./img/calzas/01.jpg",
     "categoria": {
-      "nombre": "calza",
+      "nombre": "Calza",
       "id": "calza"
     },
     "precio": 7650
@@ -64,7 +64,7 @@
     "titulo": "Calza Zeus",
     "imagen": "./img/calzas/02.jpg",
     "categoria": {
-      "nombre": "calza",
+      "nombre": "Calza",
       "id": "calza"
     },
     "precio": 6980
@@ -74,7 +74,7 @@
     "titulo": "Calza Futura",
     "imagen": "./img/calzas/03.jpg",
     "categoria": {
-      "nombre": "calza",
+      "nombre": "Calza",
       "id": "calza"
     },
     "precio": 6500
@@ -84,7 +84,7 @@
     "titulo": "Calza Armonia",
     "imagen": "./img/calzas/04.jpg",
     "categoria": {
-      "nombre": "calza",
+      "nombre": "Calza",
       "id": "calza"
     },
     "precio": 7640
@@ -94,7 +94,7 @@
     "titulo": "Calza Gala",
     "imagen": "./img/calzas/05.jpg",
     "categoria": {
-      "nombre": "calza",
+      "nombre": "Calza",
       "id": "calza"
     },
     "precio": 1000
@@ -114,7 +114,7 @@
     "titulo": "Calza Zebra",
     "imagen": "./img/calzas/07.jpg",
     "categoria": {
-      "nombre": "calza",
+      "nombre": "Calza",
       "id": "calza"
     },
     "precio": 5430
@@ -124,7 +124,7 @@
     "titulo": "Calza Gala",
     "imagen": "./img/calzas/08.jpg",
     "categoria": {
-      "nombre": "calza",
+      "nombre": "Calza",
       "id": "calza"
     },
     "precio": 5630
@@ -134,7 +134,7 @@
     "titulo": "Remera Sira",
     "imagen": "./img/remeras/01.jpg",
     "categoria": {
-      "nombre": "remera",
+      "nombre": "Remera",
       "id": "remera"
     },
     "precio": 1000
@@ -144,7 +144,7 @@
     "titulo": "Remera Olimpo",
     "imagen": "./img/remeras/02.jpg",
     "categoria": {
-      "nombre": "remera",
+      "nombre": "Remera",
       "id": "remera"
     },
     "precio": 3500
@@ -154,7 +154,7 @@
     "titulo": "Remera Petra",
     "imagen": "./img/remeras/03.jpg",
     "categoria": {
-      "nombre": "remera",
+      "nombre": "Remera",
       "id": "remera"
     },
     "precio": 2000
@@ -164,7 +164,7 @@
     "titulo": "Remera Ara",
     "imagen": "./img/remeras/04.jpg",
     "categoria": {
-      "nombre": "remera",
+      "nombre": "Remera",
       "id": "remera"
     },
     "precio": 3470
@@ -174,7 +174,7 @@
     "titulo": "Remera Bora",
     "imagen": "./img/remeras/05.jpg",
     "categoria": {
-      "nombre": "remera",
+      "nombre": "Remera",
       "id": "remera"
     },
     "precio": 6780
