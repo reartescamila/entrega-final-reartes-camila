@@ -32,7 +32,7 @@
   {
     "id": "Top-04",
     "titulo": "Top Lia",
-    "imagen": "./img/tops/04.jpg",
+    "imagen": "./img/tops/03.jpg",
     "categoria": {
       "nombre": "Top",
       "id": "top"
@@ -40,7 +40,7 @@
     "precio": 6500
   },
   {
-    "id": "Top-05",
+    "id": "Top-06",
     "titulo": "Top Ara",
     "imagen": "./img/tops/05.jpg",
     "categoria": {
@@ -122,7 +122,7 @@
   {
     "id": "calza-08",
     "titulo": "Calza Gala",
-    "imagen": "./img/calzas/08.jpg",
+    "imagen": "./img/calzas/07.jpg",
     "categoria": {
       "nombre": "Calza",
       "id": "calza"
@@ -132,7 +132,7 @@
   {
     "id": "remera-01",
     "titulo": "Remera Sira",
-    "imagen": "./img/remeras/01.jpg",
+    "imagen": "./img/remeras/02.jpg",
     "categoria": {
       "nombre": "Remera",
       "id": "remera"
